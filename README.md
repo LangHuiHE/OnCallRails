@@ -1,24 +1,14 @@
-# README
+# OnCallRails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+OnCallRails is a solo project that serves as a Ruby on Rails rewrite of LinkedIn's [Iris project](https://github.com/linkedin/iris). This project aims to extend Iris's functionalities, improve performance, and modernize the user interface with a planned React integration.
 
-* Ruby version
+## Usage
 
-* System dependencies
+After running the server, open your browser and navigate to `http://localhost:3000` to access the OnCallRails dashboard. (Add more detailed usage instructions or examples here.)
 
-* Configuration
+## Acknowledgments
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Special thanks to LinkedIn for the original [Iris project](https://github.com/linkedin/iris).
+- (Any other acknowledgments you'd like to include)
