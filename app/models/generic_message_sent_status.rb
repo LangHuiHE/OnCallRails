@@ -1,0 +1,2 @@
+class GenericMessageSentStatus < ApplicationRecord
+end
