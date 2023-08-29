@@ -11,4 +11,3 @@ After running the server, open your browser and navigate to `http://localhost:30
 ## Acknowledgments
 
 - Special thanks to LinkedIn for the original [Iris project](https://github.com/linkedin/iris).
-- (Any other acknowledgments you'd like to include)
